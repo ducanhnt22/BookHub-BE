@@ -1,0 +1,12 @@
+D:\BookHub\BookHub-BE\BookHub\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\BookHub\BookHub-BE\BookHub\Domain\bin\Debug\net7.0\Domain.dll
+D:\BookHub\BookHub-BE\BookHub\Domain\bin\Debug\net7.0\Domain.pdb
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.dll
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\Domain.pdb
+D:\BookHub\BookHub-BE\BookHub\Domain\obj\Debug\net7.0\ref\Domain.dll
